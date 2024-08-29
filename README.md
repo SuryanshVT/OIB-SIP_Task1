@@ -1,1 +1,3 @@
 # OIB-SIP_Task1
+Exploratory Data Analysis (EDA) is an approach to analyzing datasets to summarize their main characteristics, often with visual methods. The goal of EDA is to understand the underlying structure of the data, identify patterns, spot anomalies, test assumptions, and check the quality of the data before diving into more formal modeling.
+EDA is usually an iterative process, where you continuously refine your understanding of the data and adjust your approach based on findings. It is a critical step in the data analysis pipeline, helping to inform subsequent modeling and decision-making processes.
